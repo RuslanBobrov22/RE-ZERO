@@ -1,0 +1,53 @@
+body {
+    background: url('back.jpg');
+    background-position: center center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #91918f;
+}
+
+.container {
+    margin-top: 5em;
+    margin: 1em;
+    background-color: #313332;
+    width: 60em;
+    height: 160em;
+}
+
+.text {
+    margin: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.two {
+    margin-left: 15%;
+    height: 20em;
+    width: 40em;
+}
+
+.one {
+    margin-top: 1%;
+    margin-left: 36%;
+    height: 26em;
+    width: 16em;
+}
+
+button {
+    margin-top: 8%;
+    margin-left: 45%;
+    width: 8em;
+    height: 4em;
+    background-color: #292b2a;
+    border: 3px solid palevioletred;
+    border-radius: 1em;
+}
+
+a {
+    color: palevioletred;
+    text-decoration: none;
+}
